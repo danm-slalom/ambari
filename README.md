@@ -1,6 +1,6 @@
 Ambari Cookbook
 ===============
-![Travis CI status](https://travis-ci.org/jp/ambari.svg)
+![Travis CI status](https://travis-ci.org/danm-slalom/ambari.svg)
 
 Install ambari-server and ambari-agent in order to provision a cluster with the Hortonworks Data Platform.  This cookbook also supports provisioning supported services through the Ambari API via Ambari Blueprints.  For more on blueprints, please refer to the Apache project's documentation [here](https://cwiki.apache.org/confluence/display/AMBARI/Blueprints).
 
